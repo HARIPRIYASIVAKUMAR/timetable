@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <html>
  <head>
  <tittle></tittle>
@@ -72,8 +73,9 @@ cellpadding="4" border="5" bgcolor="cyan">
  <td>PHYSICS FOR QUANTUM COMPUTATION</td>
  <td>PRINCIPALS OF CHEMISTRY IN ENGINEERING</td>
  </tr>
-# OUPUT
-![image](https://github.com/HARIPRIYASIVAKUMAR/timetable/assets/147477684/aeafdd05-4902-4d0e-bc3d-db6ed856c269)
-
+ ```
+# OUTPUT
+![image](https://github.com/HARIPRIYASIVAKUMAR/timetable/assets/147477684/fad3bb54-8101-4a31-9f16-a46ea7824c4e)
 # RESULT
-The program for creating myproj timetable using basic HTML tags is executed successfully
+ The program for creating myproj timetable using basic HTML tags is executed
+successfully
