@@ -73,6 +73,7 @@ cellpadding="4" border="5" bgcolor="cyan">
  <td>PRINCIPALS OF CHEMISTRY IN ENGINEERING</td>
  </tr>
 # OUPUT
-![image](https://github.com/HARIPRIYASIVAKUMAR/timetable/assets/147477684/d84c36b2-f40a-4091-9968-6efc34c179d8)
+![image](https://github.com/HARIPRIYASIVAKUMAR/timetable/assets/147477684/aeafdd05-4902-4d0e-bc3d-db6ed856c269)
+
 # RESULT
 The program for creating myproj timetable using basic HTML tags is executed successfully
